@@ -46,5 +46,8 @@ https://developers.google.com/maps/documentation/geocoding/overview#:~:text=Geoc
 **From Latitude and Longitude, retrieve the air quality using Google Air Quality API
 https://developers.google.com/maps/documentation/air-quality/overview
 
+**Reference
+https://cloud.google.com/carbon-footprint/docs/api#:~:text=Export%20and%20read%20your
+
 
 
